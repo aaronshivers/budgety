@@ -1,0 +1,23 @@
+{
+  "name": "budgety",
+  "version": "1.0.0",
+  "description": "budget application",
+  "main": "budgety.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronshivers/budgety.git"
+  },
+  "author": "aaron shivers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronshivers/budgety/issues"
+  },
+  "homepage": "https://github.com/aaronshivers/budgety#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.15.0"
+  }
+}
